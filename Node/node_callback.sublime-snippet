@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function (${1:param},${2:callback}){
+	//Simple Node Callback Function
+}
+]]></content>
+	<tabTrigger>ndf</tabTrigger> 
+	<scope>source.js</scope>
+	<description> Node Callback Function </description> 
+</snippet>
